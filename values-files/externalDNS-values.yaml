@@ -1,0 +1,5 @@
+domainFilters:
+  - www.dipakparmar.tk
+serviceAccount:
+  annotations:
+    eks.amazonaws.com/role-arn: DNS_ARN
